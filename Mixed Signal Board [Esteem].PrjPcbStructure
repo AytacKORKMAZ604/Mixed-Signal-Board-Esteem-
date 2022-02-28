@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=P02_Top_Level_Schematics.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=P02_Top_Level_Schematics.SchDoc|Designator=Sheet_1|SchDesignator=Sheet_1|FileName=P02A_STM32F103 Debugger-Programmer.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=P02A_STM32F103 Debugger-Programmer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P02_Top_Level_Schematics.SchDoc|Designator=Sheet_2|SchDesignator=Sheet_2|FileName=P02B_Ethernet PHY.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=P02B_Ethernet PHY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P02_Top_Level_Schematics.SchDoc|Designator=Sheet_3|SchDesignator=Sheet_3|FileName=P02C_DRV8701 Motor Driver-1.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=P02C_DRV8701 Motor Driver-1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P02_Top_Level_Schematics.SchDoc|Designator=Sheet_4|SchDesignator=Sheet_4|FileName=P03D_24-Bit ADC for Load Cell.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=P03D_24-Bit ADC for Load Cell.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=P02_Top_Level_Schematics.SchDoc|FileName=P00_Cover_Page.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=P02_Top_Level_Schematics.SchDoc|FileName=P01_Block_Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=P02_Top_Level_Schematics.SchDoc|FileName=P03_Miscellaneous_Parts.SchDoc|SheetNumber=8
